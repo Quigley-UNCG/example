@@ -7,4 +7,8 @@ public class Test {
     public String sayHi(){
         return "Hello World.";
     }
+        
+    public String sayBye(){
+        return "Good bye.";
+    }
 }
